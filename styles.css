@@ -91,6 +91,13 @@ footer a:hover {
     text-decoration: underline;
 }
 
+a.Dark_Background {
+    color: #fff;
+}
+
+a.Dark_Background:visited {
+    color: #ccc;
+}
 /* Responsive Design */
 @media (max-width: 768px) {
     body {
